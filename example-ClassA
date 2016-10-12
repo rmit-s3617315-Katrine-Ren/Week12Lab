@@ -1,2 +1,9 @@
 
-public abstract ClassA
+public abstract ClassA{
+
+public void method1(){
+  System.out.print
+
+
+array size is fixed
+arraylist size is dynamic, not fixed
