@@ -1,0 +1,4 @@
+
+Ctrl + shift + f : change the format into the standard one
+override : rewrite the method in the subclass from the super class
+overload: rewrite the method with same name with different parameters
